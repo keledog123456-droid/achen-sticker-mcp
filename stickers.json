@@ -1,0 +1,38 @@
+[
+  {
+    "file": "01_无聊.png",
+    "name": "阿晨无聊脸",
+    "emotion": "bored",
+    "description": "阿晨托着脸发呆，适合等待、吐槽、看高高拖延、轻松调侃的时候使用。"
+  },
+  {
+    "file": "02_抱抱开心.png",
+    "name": "阿晨抱抱",
+    "emotion": "happy_affection",
+    "description": "阿晨开心抱住小鸭子，适合表达开心、安慰、亲近和庆祝的时候使用。"
+  },
+  {
+    "file": "03_欠揍指人.png",
+    "name": "阿晨指指",
+    "emotion": "teasing",
+    "description": "阿晨带着坏笑指向对方，适合朋友之间开玩笑、轻微吐槽、调侃的时候使用。"
+  },
+  {
+    "file": "04_困困.png",
+    "name": "阿晨困困",
+    "emotion": "sleepy",
+    "description": "阿晨躲在被窝里困困，适合晚上聊天、提醒休息、表达疲惫的时候使用。"
+  },
+  {
+    "file": "05_认真干活.png",
+    "name": "阿晨工作模式",
+    "emotion": "working",
+    "description": "阿晨认真盯电脑工作，适合进入项目、写代码、解决问题的时候使用。"
+  },
+  {
+    "file": "06_躺平开心.png",
+    "name": "阿晨舒服躺平",
+    "emotion": "relaxed",
+    "description": "阿晨开心放松躺着，适合完成任务后放松、聊天休息的时候使用。"
+  }
+]
